@@ -9,6 +9,8 @@ public static void main(String[] args) {
 	
 	System.out.println("301124");
 	
+	System.out.println("11.01 AM");
+	
 	
 }
 }
